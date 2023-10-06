@@ -1,0 +1,26 @@
+C:\Users\Beatriz Santos\Documents\Desenvolvimento de Softwares\Aula_05_06\Aula_05_06\bin\Debug\netcoreapp3.1\Aula_05_06.exe
+C:\Users\Beatriz Santos\Documents\Desenvolvimento de Softwares\Aula_05_06\Aula_05_06\bin\Debug\netcoreapp3.1\Aula_05_06.deps.json
+C:\Users\Beatriz Santos\Documents\Desenvolvimento de Softwares\Aula_05_06\Aula_05_06\bin\Debug\netcoreapp3.1\Aula_05_06.runtimeconfig.json
+C:\Users\Beatriz Santos\Documents\Desenvolvimento de Softwares\Aula_05_06\Aula_05_06\bin\Debug\netcoreapp3.1\Aula_05_06.runtimeconfig.dev.json
+C:\Users\Beatriz Santos\Documents\Desenvolvimento de Softwares\Aula_05_06\Aula_05_06\bin\Debug\netcoreapp3.1\Aula_05_06.dll
+C:\Users\Beatriz Santos\Documents\Desenvolvimento de Softwares\Aula_05_06\Aula_05_06\bin\Debug\netcoreapp3.1\Aula_05_06.pdb
+C:\Users\Beatriz Santos\Documents\Desenvolvimento de Softwares\Aula_05_06\Aula_05_06\obj\Debug\netcoreapp3.1\Aula_05_06.csprojAssemblyReference.cache
+C:\Users\Beatriz Santos\Documents\Desenvolvimento de Softwares\Aula_05_06\Aula_05_06\obj\Debug\netcoreapp3.1\Aula_05_06.csproj.CoreCompileInputs.cache
+C:\Users\Beatriz Santos\Documents\Desenvolvimento de Softwares\Aula_05_06\Aula_05_06\obj\Debug\netcoreapp3.1\Aula_05_06.AssemblyInfoInputs.cache
+C:\Users\Beatriz Santos\Documents\Desenvolvimento de Softwares\Aula_05_06\Aula_05_06\obj\Debug\netcoreapp3.1\Aula_05_06.AssemblyInfo.cs
+C:\Users\Beatriz Santos\Documents\Desenvolvimento de Softwares\Aula_05_06\Aula_05_06\obj\Debug\netcoreapp3.1\Aula_05_06.dll
+C:\Users\Beatriz Santos\Documents\Desenvolvimento de Softwares\Aula_05_06\Aula_05_06\obj\Debug\netcoreapp3.1\Aula_05_06.pdb
+C:\Users\Beatriz Santos\Documents\Desenvolvimento de Softwares\Aula_05_06\Aula_05_06\obj\Debug\netcoreapp3.1\Aula_05_06.genruntimeconfig.cache
+C:\Users\Beatriz Santos\Documents\Desenvolvimento de Softwares\Aula 6 - 05-06\Aula_05_06\Aula_05_06\bin\Debug\netcoreapp3.1\Aula_05_06.exe
+C:\Users\Beatriz Santos\Documents\Desenvolvimento de Softwares\Aula 6 - 05-06\Aula_05_06\Aula_05_06\bin\Debug\netcoreapp3.1\Aula_05_06.deps.json
+C:\Users\Beatriz Santos\Documents\Desenvolvimento de Softwares\Aula 6 - 05-06\Aula_05_06\Aula_05_06\bin\Debug\netcoreapp3.1\Aula_05_06.runtimeconfig.json
+C:\Users\Beatriz Santos\Documents\Desenvolvimento de Softwares\Aula 6 - 05-06\Aula_05_06\Aula_05_06\bin\Debug\netcoreapp3.1\Aula_05_06.runtimeconfig.dev.json
+C:\Users\Beatriz Santos\Documents\Desenvolvimento de Softwares\Aula 6 - 05-06\Aula_05_06\Aula_05_06\bin\Debug\netcoreapp3.1\Aula_05_06.dll
+C:\Users\Beatriz Santos\Documents\Desenvolvimento de Softwares\Aula 6 - 05-06\Aula_05_06\Aula_05_06\bin\Debug\netcoreapp3.1\Aula_05_06.pdb
+C:\Users\Beatriz Santos\Documents\Desenvolvimento de Softwares\Aula 6 - 05-06\Aula_05_06\Aula_05_06\obj\Debug\netcoreapp3.1\Aula_05_06.csprojAssemblyReference.cache
+C:\Users\Beatriz Santos\Documents\Desenvolvimento de Softwares\Aula 6 - 05-06\Aula_05_06\Aula_05_06\obj\Debug\netcoreapp3.1\Aula_05_06.csproj.CoreCompileInputs.cache
+C:\Users\Beatriz Santos\Documents\Desenvolvimento de Softwares\Aula 6 - 05-06\Aula_05_06\Aula_05_06\obj\Debug\netcoreapp3.1\Aula_05_06.AssemblyInfoInputs.cache
+C:\Users\Beatriz Santos\Documents\Desenvolvimento de Softwares\Aula 6 - 05-06\Aula_05_06\Aula_05_06\obj\Debug\netcoreapp3.1\Aula_05_06.AssemblyInfo.cs
+C:\Users\Beatriz Santos\Documents\Desenvolvimento de Softwares\Aula 6 - 05-06\Aula_05_06\Aula_05_06\obj\Debug\netcoreapp3.1\Aula_05_06.dll
+C:\Users\Beatriz Santos\Documents\Desenvolvimento de Softwares\Aula 6 - 05-06\Aula_05_06\Aula_05_06\obj\Debug\netcoreapp3.1\Aula_05_06.pdb
+C:\Users\Beatriz Santos\Documents\Desenvolvimento de Softwares\Aula 6 - 05-06\Aula_05_06\Aula_05_06\obj\Debug\netcoreapp3.1\Aula_05_06.genruntimeconfig.cache

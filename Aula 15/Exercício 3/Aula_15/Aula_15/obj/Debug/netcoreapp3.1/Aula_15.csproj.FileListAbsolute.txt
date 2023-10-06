@@ -1,0 +1,13 @@
+C:\Users\Beatriz Santos\Desktop\Aula_15\Aula_15\bin\Debug\netcoreapp3.1\Aula_15.exe
+C:\Users\Beatriz Santos\Desktop\Aula_15\Aula_15\bin\Debug\netcoreapp3.1\Aula_15.deps.json
+C:\Users\Beatriz Santos\Desktop\Aula_15\Aula_15\bin\Debug\netcoreapp3.1\Aula_15.runtimeconfig.json
+C:\Users\Beatriz Santos\Desktop\Aula_15\Aula_15\bin\Debug\netcoreapp3.1\Aula_15.runtimeconfig.dev.json
+C:\Users\Beatriz Santos\Desktop\Aula_15\Aula_15\bin\Debug\netcoreapp3.1\Aula_15.dll
+C:\Users\Beatriz Santos\Desktop\Aula_15\Aula_15\bin\Debug\netcoreapp3.1\Aula_15.pdb
+C:\Users\Beatriz Santos\Desktop\Aula_15\Aula_15\obj\Debug\netcoreapp3.1\Aula_15.csprojAssemblyReference.cache
+C:\Users\Beatriz Santos\Desktop\Aula_15\Aula_15\obj\Debug\netcoreapp3.1\Aula_15.AssemblyInfoInputs.cache
+C:\Users\Beatriz Santos\Desktop\Aula_15\Aula_15\obj\Debug\netcoreapp3.1\Aula_15.AssemblyInfo.cs
+C:\Users\Beatriz Santos\Desktop\Aula_15\Aula_15\obj\Debug\netcoreapp3.1\Aula_15.csproj.CoreCompileInputs.cache
+C:\Users\Beatriz Santos\Desktop\Aula_15\Aula_15\obj\Debug\netcoreapp3.1\Aula_15.dll
+C:\Users\Beatriz Santos\Desktop\Aula_15\Aula_15\obj\Debug\netcoreapp3.1\Aula_15.pdb
+C:\Users\Beatriz Santos\Desktop\Aula_15\Aula_15\obj\Debug\netcoreapp3.1\Aula_15.genruntimeconfig.cache
